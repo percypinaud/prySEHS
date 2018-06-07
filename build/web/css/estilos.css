@@ -1,0 +1,21 @@
+#tablita{
+    width: 400px;
+}
+#barra{
+    margin-top:10px;
+    background-color: #A4B8A1;
+    color:black;
+}
+#bar{
+    background-color: #A4B8A1;
+    color:black;
+
+}
+#fondo{
+    padding-left: 120px;
+    padding-top:-10px
+    
+}
+#caj{
+        background-color:white;
+}
